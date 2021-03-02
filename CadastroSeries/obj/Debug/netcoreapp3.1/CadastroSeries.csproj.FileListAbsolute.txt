@@ -1,0 +1,13 @@
+C:\Users\giova\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\CadastroSeries.exe
+C:\Users\giova\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\CadastroSeries.deps.json
+C:\Users\giova\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\CadastroSeries.runtimeconfig.json
+C:\Users\giova\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\CadastroSeries.runtimeconfig.dev.json
+C:\Users\giova\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\CadastroSeries.dll
+C:\Users\giova\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\CadastroSeries.pdb
+C:\Users\giova\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\CadastroSeries.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\CadastroSeries.AssemblyInfo.cs
+C:\Users\giova\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\CadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\CadastroSeries.dll
+C:\Users\giova\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\CadastroSeries.pdb
+C:\Users\giova\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\CadastroSeries.genruntimeconfig.cache
+C:\Users\giova\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\CadastroSeries.csprojAssemblyReference.cache
