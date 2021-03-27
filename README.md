@@ -1,4 +1,4 @@
-# Cadastro de Séries .Net
+# Cadastro de Séries em .Net
 
 Exercício de criar aplicação de console para cadastrar séries.
 
